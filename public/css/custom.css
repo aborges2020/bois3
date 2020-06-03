@@ -1,0 +1,18 @@
+/* Show it is fixed to the top ok */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+.margin-top-25 {
+  margin-top: 25px;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.margin-right-5 {
+  margin-left: 5px;
+}
+
